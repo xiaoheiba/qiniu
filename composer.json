@@ -1,5 +1,5 @@
 {
-    "name": "qiniu/php-sdk",
+    "name": "xiaoheiba/qiniu",
     "type": "library",
     "description": "Qiniu Resource (Cloud) Storage SDK for PHP",
     "keywords": [
@@ -8,13 +8,11 @@
         "sdk",
         "cloud"
     ],
-    "homepage": "http://developer.qiniu.com/",
     "license": "MIT",
     "authors": [
         {
             "name": "Qiniu",
-            "email": "sdk@qiniu.com",
-            "homepage": "http://www.qiniu.com"
+            "email": "2621228906@qq.com"
         }
     ],
     "require": {
